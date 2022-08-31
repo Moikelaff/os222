@@ -1,1 +1,7 @@
-L00 Overview, Etc.
+W00 20 L00 General, Etc.
+W00 30 L01 Scele, Etc.
+W00 100 L02 Zoom meetings
+W00 05 L03 Github related
+W00 05 L04 Github pages related
+W00 03 L05 QUIZ
+W00 60 L09 Weekly Assignments
