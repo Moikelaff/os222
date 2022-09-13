@@ -16,14 +16,14 @@ permalink: LINKS/
 # LINKS
 
 1. [OS Book](https://www.os-book.com/OS10/slide-dir/)<br>
-An e-book on things about OS.
+An e-book on things about OS.<br>
 its a must read for this <strike>confusing</strike> subject. 
 
 2. [sed manual](https://www.gnu.org/software/sed/manual/sed.pdf)<br>
-manual for sed commands.
+manual for sed commands.<br>
 holy scripture for OS.
 3. [gawk manual](https://www.gnu.org/software/gawk/manual/gawk.pdf)<br>
-manual for gawk commands.
+manual for gawk commands.<br>
 another holy scripture for OS.
 <br>
 <hr>
