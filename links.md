@@ -24,7 +24,14 @@ manual for sed commands.<br>
 holy scripture for OS.
 3. [gawk manual](https://www.gnu.org/software/gawk/manual/gawk.pdf)<br>
 manual for gawk commands.<br>
-another holy scripture for OS.
+another holy scripture for OS
+4. [internet safety beginners guide](http://choosetoencrypt.com/privacy/complete-beginners-guide-to-internet-safety-privacy/)<br>
+website for things about internet safety.<br>
+contains alot of tips about being safe and secure in the internet.
+
+5. [online privacy beginners guide](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)<br>
+a basic guide about online privacy.<br>
+contains risks, problems, and solutions regarding internet privacy
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
