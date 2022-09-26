@@ -32,4 +32,5 @@ ZCZC W03 120 L13 weekly assignment: reading
 ZCZC W03 60 L01 scele related
 ZCZC W03 30 L43 TXT/myrank.txt
 ZCZC W03 60 L26 encrypt/decrypt
+ZCZC W03 100 L99 face-to-face
 ZCZC W03 40 L06 studying about os
