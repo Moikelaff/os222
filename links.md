@@ -32,6 +32,12 @@ contains alot of tips about being safe and secure in the internet.
 5. [online privacy beginners guide](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)<br>
 a basic guide about online privacy.<br>
 contains risks, problems, and solutions regarding internet privacy
+
+6. [linux commands](https://labex.io/courses/linux-basic-commands-practice-online/)<br>
+tutorial about linux commands, useful for beginners to know what certain acronyms mean <br>
+
+7. [GPG encryption guide](https://tutonics.com/2012/11/gpg-encryption-guide-part-1.html/) <br>
+guide for things related to GPG encryption, including generating a key, encrypting, etc <br>
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
