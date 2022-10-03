@@ -38,6 +38,15 @@ tutorial about linux commands, useful for beginners to know what certain acronym
 
 7. [GPG encryption guide](https://tutonics.com/2012/11/gpg-encryption-guide-part-1.html/) <br>
 guide for things related to GPG encryption, including generating a key, encrypting, etc <br>
+
+8. [C language beginners guide](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=1818s&ab_channel=freeCodeCamp.org)
+a 3 hours approx. guide on the basics of C <br>
+
+9. [memory management lectures](https://www.tutorialspoint.com/operating_system/os_memory_management.htm#)
+this websites gives several courses on OS memory management <br>
+
+10. [memory management quick guide](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+a simple quick and easy guide to casually look back into about OS memory management <br>
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
