@@ -34,3 +34,11 @@ ZCZC W03 30 L43 TXT/myrank.txt
 ZCZC W03 60 L26 encrypt/decrypt
 ZCZC W03 100 L99 face-to-face
 ZCZC W03 40 L06 studying about os
+ZCZC W04 100 L02 Zoom meetings
+ZCZC W04 180 L14 Weekly Assignments
+ZCZC W04 60 L14 Weekly assignments
+ZCZC W04 60 L05 Quiz studying
+ZCZC W04 100 L99 Offline class
+ZCZC W04 60 L26 encrypt/decrypt
+ZCZC W04 30 L40 TXT/ related
+ZCZC W04 30 L05 quiz related
