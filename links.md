@@ -39,14 +39,20 @@ tutorial about linux commands, useful for beginners to know what certain acronym
 7. [GPG encryption guide](https://tutonics.com/2012/11/gpg-encryption-guide-part-1.html/) <br>
 guide for things related to GPG encryption, including generating a key, encrypting, etc <br>
 
-8. [C language beginners guide](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=1818s&ab_channel=freeCodeCamp.org)
+8. [C language beginners guide](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=1818s&ab_channel=freeCodeCamp.org)<br>
 a 3 hours approx. guide on the basics of C <br>
 
-9. [memory management lectures](https://www.tutorialspoint.com/operating_system/os_memory_management.htm#)
+9. [memory management lectures](https://www.tutorialspoint.com/operating_system/os_memory_management.htm#)<br>
 this websites gives several courses on OS memory management <br>
 
-10. [memory management quick guide](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+10. [memory management quick guide](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
 a simple quick and easy guide to casually look back into about OS memory management <br>
+
+11. [vram management](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+a simple website about vram management, it has trashing, paging, etc. <br>
+
+12. [endian explanations](https://chortle.ccsu.edu/assemblytutorial/Chapter-15/ass15_3.html)<br>
+this website explains the difference between little and big endians also explains each's usage and advantages <br>
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
