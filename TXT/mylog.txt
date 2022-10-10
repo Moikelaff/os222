@@ -42,3 +42,9 @@ ZCZC W04 100 L99 Offline class
 ZCZC W04 60 L26 encrypt/decrypt
 ZCZC W04 30 L40 TXT/ related
 ZCZC W04 30 L05 quiz related
+ZCZC W05 100 L02 Zoom meetings
+ZCZC W05 100 L99 offline class
+ZCZC W05 150 L15 weekly assignments
+ZCZC W05 150 L15 Weekly assignments
+ZCZC W05 100 L05 Study for quiz
+ZCZC W05 30 L40 Txt
