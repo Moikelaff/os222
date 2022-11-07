@@ -48,3 +48,11 @@ ZCZC W05 150 L15 weekly assignments
 ZCZC W05 150 L15 Weekly assignments
 ZCZC W05 100 L05 Study for quiz
 ZCZC W05 30 L40 Txt
+ZCZC W06 100 L99 facetoface
+ZCZC W06 120 L16 reading
+ZCZC W06 100 L16 assignment
+ZCZC W06 60 L40 Txt
+ZCZC W06 90 L05 Quiz study
+ZCZC W06 100 L02 Zoom
+ZCZC W06 30 L01 Scele related
+ZCZC W05 30 L16 reading 
