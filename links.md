@@ -53,6 +53,10 @@ a simple website about vram management, it has trashing, paging, etc. <br>
 
 12. [endian explanations](https://chortle.ccsu.edu/assemblytutorial/Chapter-15/ass15_3.html)<br>
 this website explains the difference between little and big endians also explains each's usage and advantages <br>
+13. [multithreading quick read](https://www.techtarget.com/whatis/definition/multithreading#:~:text=Multithreading%20is%20the%20ability%20of,requests%20from%20the%20same%20user.)
+this website explains roughly what multithreading is and also compares it with parallel processing and multicore processors. <br>
+13. [process management intro](https://www.geeksforgeeks.org/introduction-of-process-management/)
+this website explains what process management is and also gives several beginner questions about it <br>
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
