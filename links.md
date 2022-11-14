@@ -57,6 +57,8 @@ this website explains the difference between little and big endians also explain
 this website explains roughly what multithreading is and also compares it with parallel processing and multicore processors. <br>
 13. [process management intro](https://www.geeksforgeeks.org/introduction-of-process-management/)
 this website explains what process management is and also gives several beginner questions about it <br>
+14. [scp guide](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+this website explains how to use scp to transfer file
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
