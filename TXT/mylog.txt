@@ -64,3 +64,7 @@ ZCZC W07 100 L17 weekly
 ZCZC W07 60 L17 Weekly
 ZCZC W07 100 L05 studying
 ZCZC W07 30 L01 scele
+ZCZC W08 100 L99 class
+ZCZC W08 100 L02 zoom
+ZCZC W08 540 L18 assignments
+ZCZC W08 30 L40 txt related

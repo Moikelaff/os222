@@ -59,6 +59,8 @@ this website explains roughly what multithreading is and also compares it with p
 this website explains what process management is and also gives several beginner questions about it <br>
 14. [scp guide](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 this website explains how to use scp to transfer file
+15. [linux from scratch](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)
+teaches how to make a custom linux system from scratch <br>
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
