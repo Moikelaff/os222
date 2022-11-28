@@ -61,6 +61,8 @@ this website explains what process management is and also gives several beginner
 this website explains how to use scp to transfer file
 15. [linux from scratch](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)
 teaches how to make a custom linux system from scratch <br>
+16. [LFS chapter 7 youtube tutorial](https://www.youtube.com/watch?v=yrWyl6Zypd4&ab_channel=Kernotex)
+summarizes the LFS step-by-steps in video format<br>
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
