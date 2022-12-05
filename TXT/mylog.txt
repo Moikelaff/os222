@@ -74,3 +74,6 @@ ZCZC W09 360 L18 assignments
 ZCZC W09 30 L40 txt related
 ZCZC W09 180 L18 assignments
 ZCZC W09 90 L05 quiz study
+ZCZC W10 100 L99 class
+ZCZC W10 100 L02 Zoom
+ZCZC W10 720 L17 assignments
